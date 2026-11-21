@@ -1,1 +1,10 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+
+# PDF attachments moved from Notes and stored directly in Git.
+"C与C++/C++模板_第二版.pdf" -filter -diff -merge -text
+"C与C++/泛型编程与STL中文版.pdf" -filter -diff -merge -text
+"编程语言/Let's Get Rusty!  -- Rust 入门指北_ 基础设施 .pdf" -filter -diff -merge -text
+"编程语言/Let's Get Rusty!  -- Rust 入门指北_ 语言简介.pdf" -filter -diff -merge -text
+"网络安全与密码学/图解密码技术 第三版.pdf" -filter -diff -merge -text
+"计算机网络/linux_network_stack.pdf" -filter -diff -merge -text
+"计算机网络/tcp_protocol_rfc_design_implementation.pdf" -filter -diff -merge -text

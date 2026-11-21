@@ -2,8 +2,8 @@
 
 个人收藏的计算机科学与软件工程类电子书，按主题分类整理。
 
-- **368 个文件 · 32 个主题目录**
-- **362 个文件通过 Git LFS 存储**，仓库中仅保存轻量指针
+- **377 个文件 · 32 个主题目录**
+- **363 个文件通过 Git LFS 存储**，另有 7 份从 Notes 迁入的 PDF 直接保存在 Git 中
 - 历史按体积分层提交（<50MB / 50–100MB / >100MB），便于增量同步
 
 > ⚠️ **本仓库仅供个人学习与查阅使用。** 多数书籍为扫描版或电子版，版权归原作者与出版方所有，请勿用于商业用途或二次分发。
@@ -14,7 +14,7 @@
 
 | 主题 | 文件数 |
 |---|---:|
-| [C与C++](https://github.com/Sphinxes0o0/ebooks/tree/main/C%E4%B8%8EC%2B%2B)| 59 |
+| [C与C++](https://github.com/Sphinxes0o0/ebooks/tree/main/C%E4%B8%8EC%2B%2B)| 61 |
 | [Linux系统编程](https://github.com/Sphinxes0o0/ebooks/tree/main/Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B)| 13 |
 | [交互设计与用户体验](https://github.com/Sphinxes0o0/ebooks/tree/main/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B8%8E%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C)| 4 |
 | [产品与项目管理](https://github.com/Sphinxes0o0/ebooks/tree/main/%E4%BA%A7%E5%93%81%E4%B8%8E%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86)| 3 |
@@ -35,14 +35,14 @@
 | [科普读物](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%A7%91%E6%99%AE%E8%AF%BB%E7%89%A9)| 4 |
 | [移动与Web开发](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%A7%BB%E5%8A%A8%E4%B8%8EWeb%E5%BC%80%E5%8F%91)| 7 |
 | [算法与数据结构](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)| 21 |
-| [编程语言](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)| 11 |
+| [编程语言](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)| 13 |
 | [编译器](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%BC%96%E8%AF%91%E5%99%A8)| 17 |
-| [网络安全与密码学](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6)| 13 |
+| [网络安全与密码学](https://github.com/Sphinxes0o0/ebooks/tree/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6)| 14 |
 | [英语学习](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0)| 4 |
 | [计算机图形学](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)| 8 |
 | [计算机科学概论](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA)| 6 |
 | [计算机组成与体系结构](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)| 17 |
-| [计算机网络](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)| 44 |
+| [计算机网络](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)| 47 |
 | [设计模式与软件工程](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)| 17 |
 | [软件测试](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95)| 1 |
 | [面试与职场](https://github.com/Sphinxes0o0/ebooks/tree/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E5%9C%BA)| 4 |
@@ -54,7 +54,7 @@
 每个文件均可直接点击链接在线查看或下载。
 
 <details>
-<summary><b>C与C++</b> — 59 个文件</summary>
+<summary><b>C与C++</b> — 61 个文件</summary>
 
 - [\[图灵程序设计丛书\].C++性能优化指南.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/C%E4%B8%8EC%2B%2B/%5B%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%5D.C%2B%2B%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8C%87%E5%8D%97.pdf)
 - [\[图灵程序设计丛书\].嗨翻C语言.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/C%E4%B8%8EC%2B%2B/%5B%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%5D.%E5%97%A8%E7%BF%BBC%E8%AF%AD%E8%A8%80.pdf)
@@ -115,6 +115,8 @@
 - [工程问题C++语言求解.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/C%E4%B8%8EC%2B%2B/%E5%B7%A5%E7%A8%8B%E9%97%AE%E9%A2%98C%2B%2B%E8%AF%AD%E8%A8%80%E6%B1%82%E8%A7%A3.pdf)
 - [工程问题C语言求解 原书第4版.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/C%E4%B8%8EC%2B%2B/%E5%B7%A5%E7%A8%8B%E9%97%AE%E9%A2%98C%E8%AF%AD%E8%A8%80%E6%B1%82%E8%A7%A3%20%E5%8E%9F%E4%B9%A6%E7%AC%AC4%E7%89%88.pdf)
 - [经典Linux-C编程入门书籍.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/C%E4%B8%8EC%2B%2B/%E7%BB%8F%E5%85%B8Linux-C%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E4%B9%A6%E7%B1%8D.pdf)
+- [C++模板_第二版.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/C%E4%B8%8EC%2B%2B/C%2B%2B%E6%A8%A1%E6%9D%BF_%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+- [泛型编程与STL中文版.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/C%E4%B8%8EC%2B%2B/%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B%E4%B8%8ESTL%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 </details>
 
@@ -406,7 +408,7 @@
 </details>
 
 <details>
-<summary><b>编程语言</b> — 11 个文件</summary>
+<summary><b>编程语言</b> — 13 个文件</summary>
 
 - [\[图灵程序设计丛书\].七周七语言：理解多种编程范型.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%5B%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%5D.%E4%B8%83%E5%91%A8%E4%B8%83%E8%AF%AD%E8%A8%80%EF%BC%9A%E7%90%86%E8%A7%A3%E5%A4%9A%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B.pdf)
 - [\[图灵程序设计丛书\].两周自制脚本语言.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%5B%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%5D.%E4%B8%A4%E5%91%A8%E8%87%AA%E5%88%B6%E8%84%9A%E6%9C%AC%E8%AF%AD%E8%A8%80.pdf)
@@ -419,6 +421,8 @@
 - [程序设计语言原理.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E5%8E%9F%E7%90%86.pdf)
 - [程序设计语言的形式语义.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%9A%84%E5%BD%A2%E5%BC%8F%E8%AF%AD%E4%B9%89.pdf)
 - [计算机程序的构造和解释 （原书第2版）.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A%20%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+- [Let's Get Rusty!  -- Rust 入门指北_ 基础设施 .pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Let%27s%20Get%20Rusty%21%20%20--%20Rust%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8C%97_%20%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%20.pdf)
+- [Let's Get Rusty!  -- Rust 入门指北_ 语言简介.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Let%27s%20Get%20Rusty%21%20%20--%20Rust%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8C%97_%20%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B.pdf)
 
 </details>
 
@@ -446,7 +450,7 @@
 </details>
 
 <details>
-<summary><b>网络安全与密码学</b> — 13 个文件</summary>
+<summary><b>网络安全与密码学</b> — 14 个文件</summary>
 
 - [\[图灵图书\].社会工程 卷2：解读肢体语言.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6/%5B%E5%9B%BE%E7%81%B5%E5%9B%BE%E4%B9%A6%5D.%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%20%E5%8D%B72%EF%BC%9A%E8%A7%A3%E8%AF%BB%E8%82%A2%E4%BD%93%E8%AF%AD%E8%A8%80.pdf)
 - [\[图灵图书\].社会工程：安全体系中的人性漏洞 .pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6/%5B%E5%9B%BE%E7%81%B5%E5%9B%BE%E4%B9%A6%5D.%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%EF%BC%9A%E5%AE%89%E5%85%A8%E4%BD%93%E7%B3%BB%E4%B8%AD%E7%9A%84%E4%BA%BA%E6%80%A7%E6%BC%8F%E6%B4%9E%20.pdf)
@@ -461,6 +465,7 @@
 - [密码学导引.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6/%E5%AF%86%E7%A0%81%E5%AD%A6%E5%AF%BC%E5%BC%95.pdf)
 - [计算机安全 原理与实践.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8%20%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
 - [计算机安全学.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8%E5%AD%A6.pdf)
+- [图解密码技术 第三版.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6/%E5%9B%BE%E8%A7%A3%E5%AF%86%E7%A0%81%E6%8A%80%E6%9C%AF%20%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
 
 </details>
 
@@ -524,7 +529,7 @@
 </details>
 
 <details>
-<summary><b>计算机网络</b> — 44 个文件</summary>
+<summary><b>计算机网络</b> — 47 个文件</summary>
 
 - [\[深入理解Linux网络技术内幕\].(ChristianBenvenuti).夏安等.扫描版.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%5B%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Linux%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%5D.%28ChristianBenvenuti%29.%E5%A4%8F%E5%AE%89%E7%AD%89.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
 - [1-UDP可靠性传输-20211120.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/1-UDP%E5%8F%AF%E9%9D%A0%E6%80%A7%E4%BC%A0%E8%BE%93-20211120.pdf)
@@ -570,6 +575,8 @@
 - [计算机网络实验教程＝NETWORK SIMULATION EXPERIMENTS MANUAL.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AE%9E%E9%AA%8C%E6%95%99%E7%A8%8B%EF%BC%9DNETWORK%20SIMULATION%20EXPERIMENTS%20MANUAL.pdf)
 - [计算机网络教程 自顶向下方法.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%95%99%E7%A8%8B%20%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95.pdf)
 - [计算机网络系统方法＝COMPUTER NETWORKS A SYSTEMS APPROACH FIFTH EDITION.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%B3%BB%E7%BB%9F%E6%96%B9%E6%B3%95%EF%BC%9DCOMPUTER%20NETWORKS%20A%20SYSTEMS%20APPROACH%20FIFTH%20EDITION.pdf)
+- [linux_network_stack.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/linux_network_stack.pdf)
+- [tcp_protocol_rfc_design_implementation.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/tcp_protocol_rfc_design_implementation.pdf)
 
 </details>
 
@@ -675,7 +682,7 @@ git lfs fsck
 | 指标 | 数值 |
 |---|---:|
 | 主题目录 | 32 |
-| 跟踪文件 | 368 |
-| LFS 对象 | 362 |
-| 总体积 | 21.48 GB |
+| 跟踪文件 | 377 |
+| LFS 文件 | 363 |
+| 去重后 LFS 体积 | 20.04 GiB |
 | 单文件最大 | 710.8 MB |
