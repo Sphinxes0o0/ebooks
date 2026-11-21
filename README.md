@@ -2,8 +2,8 @@
 
 个人收藏的计算机科学与软件工程类电子书，按主题分类整理。
 
-- **377 个文件 · 32 个主题目录**
-- **363 个文件通过 Git LFS 存储**，另有 7 份从 Notes 迁入的 PDF 直接保存在 Git 中
+- **365 个文件 · 32 个主题目录**
+- **351 个文件通过 Git LFS 存储**，另有 7 份从 Notes 迁入的 PDF 直接保存在 Git 中
 - 历史按体积分层提交（<50MB / 50–100MB / >100MB），便于增量同步
 
 > ⚠️ **本仓库仅供个人学习与查阅使用。** 多数书籍为扫描版或电子版，版权归原作者与出版方所有，请勿用于商业用途或二次分发。
@@ -42,7 +42,7 @@
 | [计算机图形学](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)| 8 |
 | [计算机科学概论](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA)| 6 |
 | [计算机组成与体系结构](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)| 17 |
-| [计算机网络](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)| 47 |
+| [计算机网络](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)| 35 |
 | [设计模式与软件工程](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)| 17 |
 | [软件测试](https://github.com/Sphinxes0o0/ebooks/tree/main/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95)| 1 |
 | [面试与职场](https://github.com/Sphinxes0o0/ebooks/tree/main/%E9%9D%A2%E8%AF%95%E4%B8%8E%E8%81%8C%E5%9C%BA)| 4 |
@@ -529,7 +529,7 @@
 </details>
 
 <details>
-<summary><b>计算机网络</b> — 47 个文件</summary>
+<summary><b>计算机网络</b> — 35 个文件</summary>
 
 - [\[深入理解Linux网络技术内幕\].(ChristianBenvenuti).夏安等.扫描版.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%5B%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Linux%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%5D.%28ChristianBenvenuti%29.%E5%A4%8F%E5%AE%89%E7%AD%89.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
 - [1-UDP可靠性传输-20211120.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/1-UDP%E5%8F%AF%E9%9D%A0%E6%80%A7%E4%BC%A0%E8%BE%93-20211120.pdf)
@@ -542,18 +542,6 @@
 - [MIT6_050JS08_textbook.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/MIT6_050JS08_textbook.pdf)
 - [Serious Cryptography A Practical Introduction to Modern Encryption.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Serious%20Cryptography%20A%20Practical%20Introduction%20to%20Modern%20Encryption.pdf)
 - [TCPIP architecture, design and implementation in Linux.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%20architecture%2C%20design%20and%20implementation%20in%20Linux.pdf)
-- [TCP-IP Illustrated Volume 1 The Protocols.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP-IP%20Illustrated%20Volume%201%20The%20Protocols.pdf)
-- [TCP-IP Illustrated Volume 2 The Implementation.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP-IP%20Illustrated%20Volume%202%20The%20Implementation.pdf)
-- [TCP-IP Illustrated Volume 3 TCP for Transactions, HTTP, NNTP, and the Unix Domain Protocols.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP-IP%20Illustrated%20Volume%203%20TCP%20for%20Transactions%2C%20HTTP%2C%20NNTP%2C%20and%20the%20Unix%20Domain%20Protocols.pdf)
-- [TCPIP详解 卷1：协议（原书第2版） by 凯文.R.福尔,W.理查德.史蒂文斯.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B71%EF%BC%9A%E5%8D%8F%E8%AE%AE%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%EF%BC%89%20by%20%E5%87%AF%E6%96%87.R.%E7%A6%8F%E5%B0%94%2CW.%E7%90%86%E6%9F%A5%E5%BE%B7.%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF.pdf)
-- [TCPIP详解 卷1：协议（原书第2版）.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B71%EF%BC%9A%E5%8D%8F%E8%AE%AE%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
-- [TCPIP详解 卷1：协议.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B71%EF%BC%9A%E5%8D%8F%E8%AE%AE.pdf)
-- [TCPIP详解 卷2：实现（原书第2版） by Kevin R. Fall W. Richard Stevens.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B72%EF%BC%9A%E5%AE%9E%E7%8E%B0%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%EF%BC%89%20by%20Kevin%20R.%20Fall%20W.%20Richard%20Stevens.pdf)
-- [TCPIP详解 卷2：实现（可编辑版）.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B72%EF%BC%9A%E5%AE%9E%E7%8E%B0%EF%BC%88%E5%8F%AF%E7%BC%96%E8%BE%91%E7%89%88%EF%BC%89.pdf)
-- [TCPIP详解 卷2：实现.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B72%EF%BC%9A%E5%AE%9E%E7%8E%B0.pdf)
-- [tcpip详解 卷3：tcp事务协议、http、nntp和unix域协议 by W. 理查德·史蒂文斯.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/tcpip%E8%AF%A6%E8%A7%A3%20%E5%8D%B73%EF%BC%9Atcp%E4%BA%8B%E5%8A%A1%E5%8D%8F%E8%AE%AE%E3%80%81http%E3%80%81nntp%E5%92%8Cunix%E5%9F%9F%E5%8D%8F%E8%AE%AE%20by%20W.%20%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF.pdf)
-- [TCPIP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议（可编辑版）.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B73%EF%BC%9ATCP%E4%BA%8B%E5%8A%A1%E5%8D%8F%E8%AE%AE%E3%80%81HTTP%E3%80%81NNTP%E5%92%8CUNIX%E5%9F%9F%E5%8D%8F%E8%AE%AE%EF%BC%88%E5%8F%AF%E7%BC%96%E8%BE%91%E7%89%88%EF%BC%89.pdf)
-- [TCPIP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B73%EF%BC%9ATCP%E4%BA%8B%E5%8A%A1%E5%8D%8F%E8%AE%AE%E3%80%81HTTP%E3%80%81NNTP%E5%92%8CUNIX%E5%9F%9F%E5%8D%8F%E8%AE%AE.pdf)
 - [Understanding Linux Network Internals Guided Tour to Networking in Linux by Christian Benvenuti.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Understanding%20Linux%20Network%20Internals%20Guided%20Tour%20to%20Networking%20in%20Linux%20by%20Christian%20Benvenuti.pdf)
 - [Understanding Network Hacks Attack and Defense with Python by Bastian Ballmann (auth.).pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Understanding%20Network%20Hacks%20Attack%20and%20Defense%20with%20Python%20by%20Bastian%20Ballmann%20%28auth.%29.pdf)
 - [UNIX网络编程第1卷.pdf](https://github.com/Sphinxes0o0/ebooks/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E7%AC%AC1%E5%8D%B7.pdf)
@@ -682,7 +670,7 @@ git lfs fsck
 | 指标 | 数值 |
 |---|---:|
 | 主题目录 | 32 |
-| 跟踪文件 | 377 |
-| LFS 文件 | 363 |
-| 去重后 LFS 体积 | 20.04 GiB |
+| 跟踪文件 | 365 |
+| LFS 文件 | 351 |
+| 去重后 LFS 体积 | 18.85 GiB |
 | 单文件最大 | 710.8 MB |
